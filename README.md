@@ -18,16 +18,6 @@ Objective:
 
 Develop a Weather Forecast Application using HTML, CSS, and JavaScript to provide users with accurate and up-to-date weather information for their location or specified cities. The application will fetch data from a weather API and display current conditions, as well as forecasts for the upcoming days. Features include user-friendly interface design, responsive layout for various devices, and intuitive interaction for seamless user experience. The project aims to showcase proficiency in front-end web development and API integration, enhancing understanding of asynchronous programming and data visualization techniques.
 
-Key Activities
-
-
-ChatGPT
-Certainly! Here's a simplified version for uploading to GitHub:
-
-Project: Weather Forecast App
-
-Objective: Develop a Weather Forecast Application using HTML, CSS, and JavaScript to provide users with accurate and up-to-date weather information for their location or specified cities.
-
 Key Activities:
 
 1) Planning and Design: Define requirements and create wireframes.
